@@ -1,0 +1,30 @@
+
+#game div {
+  border: 1px solid black;
+  width: 12%;
+  height: 300px;
+  margin: 50px;
+  display: inline-block;
+  /* box-shadow: 0 10px 5rem -2rem rgba(0, 0, 0, 0.2); */
+  box-shadow: 1px 1px 2px rgb(255, 250, 250);
+}
+
+.center {
+  text-align: center;
+  border: 3px solid rgb(255, 255, 255);
+  box-shadow: 1px 1px 2px rgb(255, 250, 250);
+}
+
+body{
+  background-color: rgb(190, 151, 10);
+}
+h1{
+  color: #111; 
+  font-family: 'Helvetica Neue', sans-serif; 
+  text-shadow:1px 1px 2px rgb(255, 250, 250);
+  font-size: 80px; 
+  font-weight: bold; 
+  letter-spacing: -1px; 
+  line-height: 1; 
+  text-align: center;
+}
